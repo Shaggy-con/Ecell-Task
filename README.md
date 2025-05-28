@@ -9,3 +9,6 @@ To run the project locally:
 ```bash
 npm install
 npm run dev
+
+```
+Some parts of this project were created with the help of AI tools for syntax correction and formatting improvements.
