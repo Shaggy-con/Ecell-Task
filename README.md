@@ -1,6 +1,7 @@
 # ECELL Task
 
 This is a simple web development project built using **Vite**, **React**, **TypeScript**, and **Tailwind CSS**.
+TASK COMPLETED
 
 ## TO implement
 
